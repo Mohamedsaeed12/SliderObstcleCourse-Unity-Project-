@@ -1,0 +1,1 @@
+Player slides through a obstcle course collecting a total of 5 coins before crossing the finishline. Each attempt is timed and you could try to beat you best score. It is diffcult to move since i added a slide feature.
