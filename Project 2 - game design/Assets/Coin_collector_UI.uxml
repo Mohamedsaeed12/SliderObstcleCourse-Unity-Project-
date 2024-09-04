@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 0; flex-wrap: nowrap; -unity-background-image-tint-color: rgb(255, 255, 255); -unity-slice-left: 0; flex-shrink: 1; flex-direction: column; width: 100px; height: 100px; background-color: rgb(255, 255, 255); border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;">
+        <ui:Label tabindex="-1" text="Coin: 0 of 5" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Coin" class="ff" style="-unity-background-scale-mode: stretch-to-fill; -unity-text-align: lower-center;" />
+        <ui:Label tabindex="-1" text="Time:" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Timer" style="-unity-text-align: upper-center;" />
+        <ui:Label tabindex="-1" text="Best:" parse-escape-sequences="true" display-tooltip-when-elided="true" name="bestScore" style="-unity-text-align: upper-center;" />
+    </ui:VisualElement>
+</ui:UXML>
